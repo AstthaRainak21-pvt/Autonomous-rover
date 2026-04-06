@@ -1,2 +1,2 @@
-# Autonomous-rover
-Autonomous terrain aware rover using Raspberry Pi and sensor fusion
+# Autonomous-vision-robot
+Autonomous terrain aware robot using Raspberry Pi and sensor fusion
